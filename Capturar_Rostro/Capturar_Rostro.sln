@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Capturar_Rostro", "Capturar_Rostro\Capturar_Rostro.pyproj", "{4F0A03CB-67D2-4CF2-BD40-55EAAD1D3684}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Entrenador", "..\Entrenador\Entrenador.pyproj", "{45B73979-4FBE-48C3-9017-13157F5C9268}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Reconocimiento_Facial", "..\Reconocimiento_Facial\Reconocimiento_Facial.pyproj", "{EAD90711-6ABC-46A7-BF31-6545267003D3}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Reconocimiento_Señal", "..\Reconocimiento_Señal\Reconocimiento_Señal.pyproj", "{B302F989-4F2F-41EB-8701-08E779416A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F0A03CB-67D2-4CF2-BD40-55EAAD1D3684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F0A03CB-67D2-4CF2-BD40-55EAAD1D3684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B73979-4FBE-48C3-9017-13157F5C9268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B73979-4FBE-48C3-9017-13157F5C9268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD90711-6ABC-46A7-BF31-6545267003D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD90711-6ABC-46A7-BF31-6545267003D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B302F989-4F2F-41EB-8701-08E779416A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B302F989-4F2F-41EB-8701-08E779416A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2134C5EA-42FE-4195-AADA-2ABFA6CC1C30}
+	EndGlobalSection
+EndGlobal
